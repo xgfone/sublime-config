@@ -1,0 +1,42 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"C++11",
+		"C99",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CTags",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"GoGdb",
+		"GoSublime",
+		"HexViewer",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Indent XML",
+		"Javatar",
+		"jQuery",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Python Flake8 Lint",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimePythonIDE",
+		"SublimeREPL",
+		"SVN",
+		"Tag",
+		"Terminal",
+		"Theme - Flatland",
+		"xml2json"
+	]
+}

@@ -1,0 +1,7 @@
+[{
+  "caption": "Auto Indent",
+  "children": [{
+    "caption": "Auto Indent",
+    "command": "auto_indent"
+  }]
+}]

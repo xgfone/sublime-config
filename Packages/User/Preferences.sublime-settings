@@ -1,0 +1,43 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/User/Solarized (Light) (Flake8Lint) (SublimePythonIDE).tmTheme",
+	"default_encoding": "UTF-8",
+	"default_line_ending": "unix",
+	"draw_white_space": "none",
+	"flatland_sidebar_tree_medium": true,
+	"font_face": "Courier New",
+	"font_options":
+	[
+	],
+	"font_size": 12,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown Preview",
+		"Markdown",
+		"Git",
+		"Javatar"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_selection": true,
+	"match_tags": true,
+	"preview_on_click": false,
+	"rulers":
+	[
+		80,
+		100,
+		120,
+		140
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
