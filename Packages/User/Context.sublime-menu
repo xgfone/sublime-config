@@ -1,7 +1,34 @@
 [{
-  "caption": "Auto Indent",
-  "children": [{
     "caption": "Auto Indent",
-    "command": "auto_indent"
-  }]
+    "children": [
+        {
+            "caption": "Auto Indent",
+            "command": "auto_indent"
+        }
+    ]
+},
+{
+    "caption": "Pretty JSON",
+    "children": [
+        {
+            "caption": "Pretty JSON: Format (Pretty Print) JSON",
+            "command": "pretty_json"
+        },
+        {
+            "caption": "Pretty JSON: Minify (compress) JSON",
+            "command": "un_pretty_json"
+        },
+        {
+            "caption": "Pretty JSON: JSON 2 XML",
+            "command": "json_to_xml"
+        },
+        {
+            "caption": "Pretty JSON: JSON query with ./jq",
+            "command": "jq_pretty_json"
+        },
+        {
+            "caption": "Pretty JSON: Validate",
+            "command": "pretty_json_validate"
+        }
+    ]
 }]
