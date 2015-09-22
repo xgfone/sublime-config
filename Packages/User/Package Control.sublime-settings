@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,6 +10,7 @@
 		"BracketHighlighter",
 		"C++11",
 		"C99",
+		"CFG Configuration Syntax Highlighting",
 		"ColorPicker",
 		"ConvertToUTF8",
 		"CTags",
@@ -22,6 +24,7 @@
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"Indent XML",
+		"INI",
 		"JavaScriptNext - ES6 Syntax",
 		"Javatar",
 		"jQuery",
