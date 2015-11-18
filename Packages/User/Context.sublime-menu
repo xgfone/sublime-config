@@ -1,14 +1,9 @@
 [{
-    "caption": "Auto Indent",
-    "children": [
-        {
-            "caption": "Auto Indent",
-            "command": "auto_indent"
-        }
-    ]
+    "caption": "Format XML",
+    "command": "auto_indent",
 },
 {
-    "caption": "Pretty JSON",
+    "caption": "Format JSON",
     "children": [
         {
             "caption": "Pretty JSON: Format (Pretty Print) JSON",
