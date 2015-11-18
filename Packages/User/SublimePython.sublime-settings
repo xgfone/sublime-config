@@ -35,7 +35,15 @@
     "pep8": true,
     // disable certain pep8 errors
     // overview of possible error codes at http://pep8.readthedocs.org/en/latest/intro.html#error-codes
-    "pep8_ignore": ["E221", "N801", "N802", "N803", "N806"],
+    "pep8_ignore": [
+        "E221", // multiple spaces before operator
+        "E265", // block comment should start with ‘# ‘
+        "E401", // multiple imports on one line
+        "N801", // class names should use CapWords convention
+        "N802", // function name should be lowercase
+        "N803", // argument name should be lowercase
+        "N806", // variable in function should be lowercase
+    ],
     "pep8_max_line_length": 1200,
     "pyflakes_ignore": [],
 
