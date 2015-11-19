@@ -1,6 +1,19 @@
 [{
-    "caption": "Format XML",
-    "command": "auto_indent",
+    "caption": "Indent XML/JSON",
+    "children": [
+        {
+            "caption": "Auto Indent",
+            "command": "auto_indent"
+        },
+        {
+            "caption": "Indent XML",
+            "command": "indent_xml"
+        },
+        {
+            "caption": "Indent JSON",
+            "command": "indent_json"
+        }
+    ]
 },
 {
     "caption": "Format JSON",
