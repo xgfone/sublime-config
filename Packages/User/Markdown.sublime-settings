@@ -3,7 +3,8 @@
     [
         "md",
         "mdown",
-        "txt"
+        "txt",
+        "rst",
     ],
 
     "color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
@@ -17,13 +18,13 @@
 
     "tab_size": 4,
     "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": false,
+    "trim_trailing_white_space_on_save": true,
     "auto_match_enabled": true,
 
     // Layout
     "draw_centered": true,
     "word_wrap": true,
-    "wrap_width": 80,
+    "wrap_width": 100,
     "rulers": [],
 
     // Line
