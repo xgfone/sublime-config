@@ -1,69 +1,66 @@
 {
-	"bootstrapped": true,
-	"in_process_packages":
-	[
-	],
-	"installed_packages":
-	[
-		"Alignment",
-		"All Autocomplete",
-		"Anaconda",
-		"ApplySyntax",
-		"BracketHighlighter",
-		"C++11",
-		"C99",
-		"CFG Configuration Syntax Highlighting",
-		"Clang Format",
-		"Codecs33",
-		"ColorPicker",
-		"ConvertToUTF8",
-		"CTags",
-		"DocBlockr",
-		"Emmet",
-		"Expression",
-		"FileDiffs",
-		"Git",
-		"GitGutter",
-		"GoGdb",
-		"GoSublime",
-		"HexViewer",
-		"HTML-CSS-JS Prettify",
-		"HTML5",
-		"Indent XML",
-		"INI",
-		"JavaScriptNext - ES6 Syntax",
-		"Javatar",
-		"jQuery",
-		"JsFormat",
-		"JSLint",
-		"KeymapEnhanced",
-		"LESS",
-		"LocalVariable",
-		"Markdown Preview",
-		"MarkdownEditing",
-		"Method",
-		"Package Control",
-		"PackageResourceViewer",
-		"Pretty JSON",
-		// "Python Flake8 Lint",
-		"Rust",
-		"RustAutoComplete",
-		"RustCodeFormatter",
-		"Sass",
-		"SFTP",
-		"SideBarEnhancements",
-		"Statement",
-		"SublimeEnhancedUtilitiesSet",
-		"SublimeLinter",
-		"SublimeLinter-contrib-rustc",
-		"SublimeLinter-cpplint",
-		"SublimeLinter-csslint",
-		"SublimeLinter-json",
-		// "SublimePythonIDE",
-		"SublimeREPL",
-		"SVN",
-		"Tag",
-		"Terminal",
-		"xml2json"
-	]
+    "bootstrapped": true,
+    "in_process_packages": [],
+    "installed_packages": [
+        "Alignment", // Easy alignment of multiple selections and multi-line selections
+        "All Autocomplete", // Extend Sublime autocompletion to find matches in all open files of the current window
+        "Anaconda", // A full featured Python development IDE
+        "ApplySyntax", // Syntax detector for Sublime Text
+        "BracketHighlighter", // Bracket and tag highlighter for Sublime Text
+        "C++11", // Replacement self-contained C++11 syntax definition for Sublime Text
+        "C99", // Replacement self-contained C99 syntax definition for Sublime Text
+        "CFG Configuration Syntax Highlighting", //.cfg tmLanguage definition for syntax highlighting in Sublime Text
+        "Clang Format", // A C++ code formatter based on Clang Format, for beautiful code with minimal effort in Sublime Text 3
+        "Codecs33", // CJK library files missing in the embedded Python of Sublime Text 3
+        "ColorPicker", // A multi-platform color picker plugin
+        "ConvertToUTF8", // A Sublime Text 2 & 3 plugin for editing and saving files encoded in GBK, BIG5, EUC-KR, EUC-JP, Shift_JIS, etc.
+        "CTags", // CTags support for Sublime Text 2/3
+        "DocBlockr", // Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
+        "Emmet", // Emmet (ex-Zen Coding) for Sublime Text
+        "Expression", // Extra source code navigation hotkeys
+        "FileDiffs", // Shows diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes
+        "Git", // Plugin for some git integration into sublime text
+        "GitGutter", // A Sublime Text 2/3 plugin to see git diff in gutter
+        "GoGdb", // Golang GDB integration
+        "GoSublime", // A Golang plugin collection for the text editor SublimeText providing code completion and other IDE-like features.
+        "HexViewer", // Hex viewer and editor for SublimeText
+        "HTML-CSS-JS Prettify", // HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
+        "HTML5", // HTML5 bundle for Sublime Text
+        "Indent XML", // Plugin for Sublime Text editor for reindenting XML and JSON files
+        "INI", // INI syntax highlighting
+        "JavaScriptNext - ES6 Syntax", // JavaScript language definition
+        "Javatar", // Java Development Plugin for Sublime Text 3
+        "jQuery", // Sublime Text package bundle for jQuery
+        "JsFormat", // Javascript formatting for Sublime Text 2 & 3
+        "JSLint", // JSLint for Sublime Text 2 and 3.
+        "KeymapEnhanced", // Keyboard rebindings for default sublime functions
+        "LESS", // LESS syntax highlighting for Sublime Text.
+        "LocalVariable", // Extract/detach/rename variable refactoring
+        "Markdown Preview", // Markdown preview and build plugin for sublime text 2/3
+        "MarkdownEditing", // Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+        "Method", // Sublime plugin that allows to manipulate methods in file
+        "Package Control", // A full-featured package manager
+        "PackageResourceViewer", // Sublime Text plugin to view package resources.
+        "Pretty JSON", // A plugin for Sublime Text 2 & 3 editor to pretty json
+        // "Python Flake8 Lint", // Sublime Text plugin: lint Python files with pep8, pep257, pyflake, mccabe and pep8-naming
+        "Rust", // A package to add support for the Rust programming language to Sublime Text 3
+        "RustAutoComplete", // A SublimeText binding for RACER (Rust auto completion tool)
+        "RustCodeFormatter", // A sublime plugin to format rust code (wrapper for rust-style).
+        "Sass", // Sass support for TextMate & Sublime Text (2 & 3)
+        "SFTP", // Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration
+        "SideBarEnhancements", // Enhancements to Sublime Text sidebar. Files and folders.
+        "Statement", // Attemp of language-independent source code tokenization and manipulation
+        "SublimeEnhancedUtilitiesSet", // Minor utilities for building snippets and plugins
+        "SublimeLinter", // Interactive code linting framework for Sublime Text 3
+        "SublimeLinter-contrib-rustc", // SublimeLinter plugin for Rust
+        "SublimeLinter-cpplint", // This linter plugin for SublimeLinter provides an interface to cpplint.
+        "SublimeLinter-csslint", // SublimeLinter plugin for CSS, using csslint.
+        "SublimeLinter-json", //SublimeLinter plugin for JSON.
+        // "SublimePythonIDE", // A rewrite of SublimeRope for ST3, uses the Rope library to add python completions and refactoring to ST3 //
+        "SublimeREPL", // Run an interpreter inside ST2/3 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python + virtualenv, R, Ruby, Scala...)
+        "SVN", // Full-featured commercial Subversion plugin with a focus on usability
+        "Tag", // Collection of packages about HTML/XML tags.
+        "Terminal", // Launch terminals from the current file or the root project folder
+        "xml2json", // xml to json and json to xml convert
+    ],
 }
