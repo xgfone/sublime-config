@@ -364,10 +364,6 @@
         "D104", // Missing docstring in public package
         "D105", // Missing docstring in magic method
         "D209", // Multi-line docstring closing quotes should be on a separate line
-        "N801", // class names should use CapWords convention
-        "N802", // function name should be lowercase
-        "N803", // argument name should be lowercase
-        "N806", // variable in function should be lowercase
     ],
 
     /*
