@@ -37,5 +37,12 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	
+	// OS X ONLY:
+	// When files are opened from finder, or by dragging onto the
+	// dock icon, this controls if a new window is created or not.
+	"open_files_in_new_window": false,
+	// This controls if an empty window is created at startup or not.
+	"create_window_at_startup": false,
 }
