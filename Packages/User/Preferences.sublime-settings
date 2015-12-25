@@ -1,6 +1,5 @@
 {
 	"always_show_minimap_viewport": true,
-	"color_scheme": "Packages/User/Solarized (Light) (Flake8Lint) (SublimePythonIDE).tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"draw_white_space": "none",
@@ -38,7 +37,7 @@
 	"show_line_endings": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	
+
 	// OS X ONLY:
 	// When files are opened from finder, or by dragging onto the
 	// dock icon, this controls if a new window is created or not.
