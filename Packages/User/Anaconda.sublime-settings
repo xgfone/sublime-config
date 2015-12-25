@@ -347,7 +347,7 @@
     "pep8_error_levels": {"E": "W", "W": "V", "V": "V"},
 
     // Set this to true to turn pep257 checking on
-    "pep257": true,
+    "pep257": false,
 
     /*
         A list of pep257 error numbers to ignore.
