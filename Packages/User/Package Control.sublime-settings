@@ -15,7 +15,7 @@
         "ColorPicker", // A multi-platform color picker plugin
         "ConvertToUTF8", // A Sublime Text 2 & 3 plugin for editing and saving files encoded in GBK, BIG5, EUC-KR, EUC-JP, Shift_JIS, etc.
         "CTags", // CTags support for Sublime Text 2/3
-        // "DocBlockr", // Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
+        "DocBlockr", // Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
         "Emmet", // Emmet (ex-Zen Coding) for Sublime Text
         // "Expression", // Extra source code navigation hotkeys
         "FileDiffs", // Shows diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes
