@@ -22,7 +22,7 @@
         // "Git", // Plugin for some git integration into sublime text
         // "GitGutter", // A Sublime Text 2/3 plugin to see git diff in gutter
         // "GoGdb", // Golang GDB integration
-        "GoSublime", // A Golang plugin collection for the text editor SublimeText providing code completion and other IDE-like features.
+        // "GoSublime", // A Golang plugin collection for the text editor SublimeText providing code completion and other IDE-like features.
         "HexViewer", // Hex viewer and editor for SublimeText
         "HTML-CSS-JS Prettify", // HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
         "HTML5", // HTML5 bundle for Sublime Text
