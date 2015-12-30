@@ -324,6 +324,8 @@
     */
     "pep8_ignore":
     [
+        "E125", // continuation line with same indent as next logical line
+        "E128", // continuation line under-indented for visual indent
         "E221", // multiple spaces before operator
         "E265", // block comment should start with ‘# ‘
         "E401", // multiple imports on one line
