@@ -49,8 +49,10 @@
         // "Sass", // Sass support for TextMate & Sublime Text (2 & 3)
         "SFTP", // Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration
         "SideBarEnhancements", // Enhancements to Sublime Text sidebar. Files and folders.
+		// "SideBarGit", // Add git commands to sidebar. Textual port of komodin extension for sublime text.
         // "Statement", // Attemp of language-independent source code tokenization and manipulation
         // "SublimeEnhancedUtilitiesSet", // Minor utilities for building snippets and plugins
+		// "SublimeGit", // Full-featured Git integration for Sublime Text 2 and 3
         // "SublimeLinter", // Interactive code linting framework for Sublime Text 3
         // "SublimeLinter-contrib-rustc", // SublimeLinter plugin for Rust
         // "SublimeLinter-cpplint", // This linter plugin for SublimeLinter provides an interface to cpplint.
