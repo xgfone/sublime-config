@@ -11,7 +11,7 @@
         "C99", // Replacement self-contained C99 syntax definition for Sublime Text
         // "CFG Configuration Syntax Highlighting", //.cfg tmLanguage definition for syntax highlighting in Sublime Text
         "Clang Format", // A C++ code formatter based on Clang Format, for beautiful code with minimal effort in Sublime Text 3
-        // "Codecs33", // CJK library files missing in the embedded Python of Sublime Text 3
+        "Codecs33", // CJK library files missing in the embedded Python of Sublime Text 3
         "ColorPicker", // A multi-platform color picker plugin
         "ConvertToUTF8", // A Sublime Text 2 & 3 plugin for editing and saving files encoded in GBK, BIG5, EUC-KR, EUC-JP, Shift_JIS, etc.
         "CTags", // CTags support for Sublime Text 2/3
