@@ -7,8 +7,8 @@
     // in values, $PATH and ${PATH} are replaced with
     // the corresponding environment(PATH) variable, if it exists.
     "env": {
-        "GOPATH": "~/go",
-        "GOROOT": "/opt/go",
+        "GOPATH": "$HOME/go",
+        "GOROOT": "/usr/local/go",
         "PATH": "$PATH:$GOROOT/bin:$GOPATH/bin",
     },
 
@@ -66,7 +66,7 @@
     ],
 
     // Whether or not comp lint is enabled (this might conflict with gslint)
-    "comp_lint_enabled": false,
+    "comp_lint_enabled": true,
 
     // The list of commands that comp-lint will run (in the order specified)
     // each entry contains a map of:
