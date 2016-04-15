@@ -19,5 +19,9 @@
     {
         "caption": "Clang Format C/C++",
         "command": "clang_format"
-    }
+    },
+    {
+        "caption": "Format SQL",
+        "command": "sql_beautifier",
+    },
 ]

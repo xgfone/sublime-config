@@ -50,6 +50,7 @@
         "SFTP", // Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration
         "SideBarEnhancements", // Enhancements to Sublime Text sidebar. Files and folders.
 		// "SideBarGit", // Add git commands to sidebar. Textual port of komodin extension for sublime text.
+		SqlBeautifier, // A sublime plugin to format SQL. It supports both sublime 2 and 3.
         // "Statement", // Attemp of language-independent source code tokenization and manipulation
         // "SublimeEnhancedUtilitiesSet", // Minor utilities for building snippets and plugins
 		// "SublimeGit", // Full-featured Git integration for Sublime Text 2 and 3
