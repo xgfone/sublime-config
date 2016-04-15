@@ -24,4 +24,8 @@
         "caption": "Format SQL",
         "command": "sql_beautifier",
     },
+    {
+        "caption": "Format Rust",
+        "command": "beautify_rust",
+    },
 ]
