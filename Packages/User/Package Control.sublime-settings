@@ -43,6 +43,7 @@
         "PackageResourceViewer", // Sublime Text plugin to view package resources.
         // "Pretty JSON", // A plugin for Sublime Text 2 & 3 editor to pretty json
         // "Python Flake8 Lint", // Sublime Text plugin: lint Python files with pep8, pep257, pyflake, mccabe and pep8-naming
+		"RESTer HTTP Client", // HTTP client for Sublime Text
         // "Rust", // A package to add support for the Rust programming language to Sublime Text 3
         // "RustAutoComplete", // A SublimeText binding for RACER (Rust auto completion tool)
         // "RustCodeFormatter", // A sublime plugin to format rust code (wrapper for rust-style).
