@@ -7,6 +7,7 @@
         "All Autocomplete", // Extend Sublime autocompletion to find matches in all open files of the current window
         "Anaconda", // A full featured Python development IDE
         "ApplySyntax", // Syntax detector for Sublime Text
+		"BeautifyRust", // A binding for Sublime Text 3 to Rustfmt
         "BracketHighlighter", // Bracket and tag highlighter for Sublime Text
         "C++11", // Replacement self-contained C++11 syntax definition for Sublime Text
         "C99", // Replacement self-contained C99 syntax definition for Sublime Text
@@ -51,7 +52,6 @@
 		"RESTer HTTP Client", // HTTP client for Sublime Text
         // "Rust", // A package to add support for the Rust programming language to Sublime Text 3
         // "RustAutoComplete", // A SublimeText binding for RACER (Rust auto completion tool)
-        // "RustCodeFormatter", // A sublime plugin to format rust code (wrapper for rust-style).
         // "Sass", // Sass support for TextMate & Sublime Text (2 & 3)
         "SFTP", // Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration
         "SideBarEnhancements", // Enhancements to Sublime Text sidebar. Files and folders.
