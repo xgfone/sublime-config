@@ -48,7 +48,7 @@
     // e.g. ["goimports"]
     // the command will be passed, to its stdin, the contents of the file
     // it must output the new file contents
-    "fmt_cmd": [],
+    "fmt_cmd": ["goimports"],
 
     // Whether or not gslint is enabled
     "gslint_enabled": true,
@@ -216,6 +216,53 @@
     // once a completion is expanded and where it's placed once you press tab afterwards.
     // duplicate markers e.g f("...", $1, $1) will result in multiple cursors, one for each duplication.
     "snippets": [],
+
+    "default_snippets": [
+        {
+            "match": {"global": false, "pkgname": ""},
+            "snippets": [
+                {"text": "package ${default_pkgname}", "title": "", "value": "package ${default_pkgname}\n\n$1\n"}
+            ]
+        },
+        {
+            "match": {"global": true, "pkgname": "^main$"},
+            "snippets": [
+                {"text": "func main", "title": "func main {...}", "value": "func main() {\n\t$0\n}\n"}
+            ]
+        },
+        {
+            "match": {"global": true, "pkgname": "."},
+            "snippets": [
+                {"text": "import", "title": "import (...)", "value": "import (\n\t\"$1\"\n)"},
+                {"text": "func", "title": "func {...}", "value": "func ${1:name}($2)$3 {\n\t$0\n}"},
+                {"text": "var", "title": "var (...)", "value": "var (\n\t$1\n)"},
+                {"text": "const", "title": "const (...)", "value": "const (\n\t$1\n)"},
+                {"text": "init", "title": "func init()", "value": "func init() {\n\t$1\n}"},
+                {
+                    "text": "func http handler",
+                    "title": "func(rw, req)",
+                    "value": "func ${1:name}(rw http.ResponseWriter, req *http.Request) {\n\t$0\n}"
+                }
+            ]
+        },
+        {
+            "match": {"global": true, "pkgname": ".", "has_types": true},
+            "snippets": [
+                {
+                    "text": "func (*${typename})",
+                    "title": "func (...) {...}",
+                    "value": "func (${1:${typename_abbr}} ${2:*}${typename}) ${3:name}($4)$5 {\n\t$0\n}"
+                }
+            ]
+        },
+        {
+            "match": {"local": true},
+            "snippets": [
+                {"text": "func", "title": "func{...}()", "value": "func($1) {\n\t$0\n}($2)"},
+                {"text": "var", "title": "var [name] [type]", "value": "var ${1:name} ${2:type}"}
+            ]
+        }
+    ],
 
     // whether or not 9o should ask Sublime Text to show(scroll to) the end of a command's output
     // by default it will attempt to show the beginning
