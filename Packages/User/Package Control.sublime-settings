@@ -68,6 +68,7 @@
         // "SublimePythonIDE", // A rewrite of SublimeRope for ST3, uses the Rope library to add python completions and refactoring to ST3 //
         "SublimeREPL", // Run an interpreter inside ST2/3 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python + virtualenv, R, Ruby, Scala...)
         // "SVN", // Full-featured commercial Subversion plugin with a focus on usability
+		"Swift", // A Sublime Text package for the Swift programming language
         // "Tag", // Collection of packages about HTML/XML tags.
         "Terminal", // Launch terminals from the current file or the root project folder
 		"TrailingSpaces", // Highlight trailing spaces and delete them in a flash.
