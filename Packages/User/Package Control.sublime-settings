@@ -45,6 +45,7 @@
         "MarkdownEditing", // Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
         // "Method", // Sublime plugin that allows to manipulate methods in file
 		"Modific", // Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin
+		// "Nodejs", // The Nodejs Sublime Text 3 Package provides a set of code completion, scripts and tools to work with nodejs.
         "Package Control", // A full-featured package manager
         //"PackageResourceViewer", // Sublime Text plugin to view package resources.
         // "Pretty JSON", // A plugin for Sublime Text 2 & 3 editor to pretty json
