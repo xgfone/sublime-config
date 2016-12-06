@@ -2,6 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete_with_fields": true,
 	"close_windows_when_empty": false,
+	"create_window_at_startup": false,
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"draw_white_space": "none",
@@ -24,6 +25,7 @@
 	"match_brackets_square": true,
 	"match_selection": true,
 	"match_tags": true,
+	"open_files_in_new_window": false,
 	"preview_on_click": false,
 	"rulers":
 	[
@@ -36,12 +38,5 @@
 	"show_line_endings": true,
 	"spell_check": false,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-
-	// OS X ONLY:
-	// When files are opened from finder, or by dragging onto the
-	// dock icon, this controls if a new window is created or not.
-	"open_files_in_new_window": false,
-	// This controls if an empty window is created at startup or not.
-	"create_window_at_startup": false,
+	"trim_trailing_white_space_on_save": true
 }

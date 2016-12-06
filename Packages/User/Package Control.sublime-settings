@@ -20,12 +20,12 @@
 
         ////// Common Program Language Package
         // "CTags", // CTags support for Sublime Text 2/3
-        "ColorPicker", // A multi-platform color picker plugin
-        "DocBlockr", // Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
         // "Alignment", // Easy alignment of multiple selections and multi-line selections
         // "RESTer HTTP Client", // HTTP client for Sublime Text
         // "SFTP", // Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration
         // "SublimeLinter", // Interactive code linting framework for Sublime Text 3
+        "ColorPicker", // A multi-platform color picker plugin
+        "DocBlockr", // Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
         "SublimeREPL", // Run an interpreter inside ST2/3 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python + virtualenv, R, Ruby, Scala...)
 
         ////// XML & JSON
@@ -56,6 +56,7 @@
 
         ////// Web
         "HTML-CSS-JS Prettify", // HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
+        // "HTMLBeautify", // A plugin for Sublime Text that formats (indents) HTML source code.
         // "Babel", // Syntax definitions for ES6 JavaScript with React JSX extensions.
         // "Gulp", // Run Gulp tasks and snippets from Sublime Text
 
