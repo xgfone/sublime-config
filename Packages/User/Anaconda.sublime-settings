@@ -11,6 +11,7 @@
         "E221", // multiple spaces before operator
         "E265", // block comment should start with ‘# ‘
         "E401", // multiple imports on one line
+        "E402", // module level import not at top of file
      ],
 
     "pep257": true,
