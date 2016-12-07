@@ -14,7 +14,7 @@
         "E402", // module level import not at top of file
      ],
 
-    "pep257": true,
+    "pep257": false,
     "pep257_ignore": [
         "D100", // Missing docstring in public module
         "D101", // Missing docstring in public class
