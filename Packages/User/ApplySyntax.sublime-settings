@@ -6,5 +6,9 @@
             "syntax": "INI/INI",
             "extensions": ["conf"]
         },
+        {
+            "syntax": "JavaScript/JSON",
+            "extensions": ["babelrc"]
+        },
     ]
 }
