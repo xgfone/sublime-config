@@ -15,7 +15,7 @@
         // "HexViewer", // Hex viewer and editor for SublimeText
         "Package Control", // A full-featured package manager
         "SideBarEnhancements", // Enhancements to Sublime Text sidebar. Files and folders.
-        "Terminal", // Launch terminals from the current file or the root project folder
+        // "Terminal", // Launch terminals from the current file or the root project folder
         "TrailingSpaces", // Highlight trailing spaces and delete them in a flash.
 
         ////// Common Program Language Package
@@ -24,7 +24,8 @@
         // "RESTer HTTP Client", // HTTP client for Sublime Text
         // "SFTP", // Commercial SFTP/FTP plugin - upload, sync, browse, remote edit, diff and vcs integration
         // "SublimeLinter", // Interactive code linting framework for Sublime Text 3
-        "ColorPicker", // A multi-platform color picker plugin
+        // "Color Highlighter", // Underlay selected hexadecimal colorcodes with their real color, and add color picker to easily modify colors.
+        // "ColorPicker", // A multi-platform color picker plugin
         "DocBlockr", // Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
         "SublimeREPL", // Run an interpreter inside ST2/3 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python + virtualenv, R, Ruby, Scala...)
 
@@ -34,8 +35,8 @@
         // "Pretty JSON", // A plugin for Sublime Text 2 & 3 editor to pretty json
 
         ////// Markdown
-        "Markdown Preview", // Markdown preview and build plugin for sublime text 2/3
-        "MarkdownEditing", // Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+        // "Markdown Preview", // Markdown preview and build plugin for sublime text 2/3
+        // "MarkdownEditing", // Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 
         ////// Git & SVN
         // "Git", // Plugin for some git integration into sublime text
@@ -47,7 +48,7 @@
         ////// Go
         // "anaconda_go", // AnacondaGO adds autocompletion, linting and IDE features for Golang to your Sublime Text 3
         // "GoGdb", // Golang GDB integration
-        "GoSublime", // A Golang plugin collection for the text editor SublimeText providing code completion and other IDE-like features.
+        // "GoSublime", // A Golang plugin collection for the text editor SublimeText providing code completion and other IDE-like features.
 
         ////// Python
         "Anaconda", // A full featured Python development IDE
@@ -55,14 +56,14 @@
         // "requirementstxt", // requirements.txt support for Python
 
         ////// Web
-        "HTML-CSS-JS Prettify", // HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
+        // "HTML-CSS-JS Prettify", // HTML, CSS, JavaScript and JSON code formatter for Sublime Text 2 and 3 via node.js
         // "HTMLBeautify", // A plugin for Sublime Text that formats (indents) HTML source code.
         // "Babel", // Syntax definitions for ES6 JavaScript with React JSX extensions.
         // "Gulp", // Run Gulp tasks and snippets from Sublime Text
 
         ////// JS For Web
         "Babel", // Syntax definitions for ES6 JavaScript with React JSX extensions.
-        "JavaScript Completions", // JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.
+        // "JavaScript Completions", // JavaScript Completions for sublime text. It helps you to write your scripts more quickly with hints and completions.
         // "JavaScriptNext - ES6 Syntax", // JavaScript language definition
         // "JSLint", // JSLint for Sublime Text 2 and 3.
         // "jQuery", // Sublime Text package bundle for jQuery
