@@ -4,7 +4,7 @@
         {
             // We consider the file .conf as the INI file.
             "syntax": "INI/INI",
-            "extensions": ["conf"]
+            "extensions": ["conf", "ini"]
         },
         {
             "syntax": "JavaScript/JSON",

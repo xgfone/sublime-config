@@ -12,6 +12,7 @@
         "E265", // block comment should start with ‘# ‘
         "E401", // multiple imports on one line
         "E402", // module level import not at top of file
+        "E731", // do not assign a lambda expression, use a def
      ],
 
     "pep257": false,

@@ -3,7 +3,7 @@
     "in_process_packages": [],
     "installed_packages": [
         ////// Common Packages
-        "AdvancedNewFile", // File creation plugin for Sublime Text 2 and Sublime Text 3.
+        // "AdvancedNewFile", // File creation plugin for Sublime Text 2 and Sublime Text 3.
         "All Autocomplete", // Extend Sublime autocompletion to find matches in all open files of the current window
         "ApplySyntax", // Syntax detector for Sublime Text
         "BracketHighlighter", // Bracket and tag highlighter for Sublime Text
@@ -36,7 +36,7 @@
 
         ////// Markdown
         // "Markdown Preview", // Markdown preview and build plugin for sublime text 2/3
-        // "MarkdownEditing", // Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
+        "MarkdownEditing", // Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes.
 
         ////// Git & SVN
         // "Git", // Plugin for some git integration into sublime text
