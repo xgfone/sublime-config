@@ -14,6 +14,7 @@
         "FuzzyFilePath", // Autocomplete relative or absolute file paths in Sublime Text project folder
         // "HexViewer", // Hex viewer and editor for SublimeText
         "Package Control", // A full-featured package manager
+        "ProjectManager", // Project Manager for Sublime Text 3
         "SideBarEnhancements", // Enhancements to Sublime Text sidebar. Files and folders.
         // "Terminal", // Launch terminals from the current file or the root project folder
         "TrailingSpaces", // Highlight trailing spaces and delete them in a flash.

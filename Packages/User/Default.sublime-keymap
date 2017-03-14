@@ -1,3 +1,11 @@
 [
+    // Built-in
     { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+
+    // Project Manager
+    { "keys": ["shift+alt+s"], "command": "project_manager", "args": {"action": "add_project"} },
+    { "keys": ["shift+alt+e"], "command": "project_manager", "args": {"action": "edit"} },
+    { "keys": ["shift+alt+r"], "command": "project_manager", "args": {"action": "rename"} },
+    { "keys": ["shift+alt+o"], "command": "project_manager", "args": {"action": "switch"} },
+    { "keys": ["shift+alt+p"], "command": "project_manager", "args": {"action": "new"} },
 ]
