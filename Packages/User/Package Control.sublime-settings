@@ -13,6 +13,7 @@
         "FindKeyConflicts", // Plugin for Sublime Text to help identify conflicting key mappings.
         "FuzzyFilePath", // Autocomplete relative or absolute file paths in Sublime Text project folder
         // "HexViewer", // Hex viewer and editor for SublimeText
+        "Keymaps", // Find a keymap for... and show all enabled keymaps in a Cheat Sheet.
         "Package Control", // A full-featured package manager
         "ProjectManager", // Project Manager for Sublime Text 3
         "SideBarEnhancements", // Enhancements to Sublime Text sidebar. Files and folders.
