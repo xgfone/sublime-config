@@ -3,6 +3,10 @@
     { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
     { "keys": ["shift+alt+c"], "command": "close_project" },
 
+    // Keymaps
+    { "keys": ["ctrl+alt+/"], "command": "find_keymap" }, // Replace Ctrl+Alt+?
+    { "keys": ["ctrl+alt+-"], "command": "cheat_sheet" }, // Replace Ctrl+Alt+_
+
     // Project Manager
     { "keys": ["shift+alt+s"], "command": "project_manager", "args": {"action": "add_project"} },
     { "keys": ["shift+alt+e"], "command": "project_manager", "args": {"action": "edit"} },
