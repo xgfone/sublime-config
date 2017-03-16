@@ -1,6 +1,7 @@
 [
     // Built-in
     { "keys": ["ctrl+shift+r"], "command": "goto_symbol_in_project" },
+    { "keys": ["shift+alt+c"], "command": "close_project" },
 
     // Project Manager
     { "keys": ["shift+alt+s"], "command": "project_manager", "args": {"action": "add_project"} },
