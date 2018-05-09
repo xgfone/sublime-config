@@ -11,10 +11,7 @@
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Markdown",
-	],
+	"ignored_packages": ["Markdown"],
 	"indent_to_bracket": true,
 	"index_exclude_patterns": ["*.log", "node_modules/*"],
 	"line_padding_bottom": 1,
@@ -28,13 +25,7 @@
 	"match_tags": true,
 	"open_files_in_new_window": false,
 	"preview_on_click": false,
-	"rulers":
-	[
-		80,
-		100,
-		120,
-		140
-	],
+	"rulers": [80, 100, 120, 140],
 	"show_encoding": true,
 	"show_line_endings": true,
 	"spell_check": false,
